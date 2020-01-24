@@ -1,3 +1,7 @@
+/* Coded with <3 Razuvitto
+location : src/App.js
+July 2019 */
+
 import React, { Component } from 'react';
 import './App.css';
 import Axios from 'axios';
@@ -27,13 +31,14 @@ class App extends Component {
         this.getFilmInfo()
     }
     render() {
-        const {films} = this.state;
-        return (
-          <div className="App">
-            <List films={films}/>
-          </div>
+        const { films } = this.state;
+        return ( <div className = "App" >
+                < List films = { films } /> 
+                </div>
         );
-      }
+    }
 }
 
 export default App;
+
+// end of file

@@ -1,3 +1,7 @@
+/* Coded with <3 Razuvitto
+location : src/index.css
+July 2019 */
+
 body {
     margin: 0;
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
@@ -16,3 +20,5 @@ code {
 .header {
     text-align: left;
 }
+
+/* end of file */

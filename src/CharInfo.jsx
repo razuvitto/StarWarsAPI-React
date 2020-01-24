@@ -1,3 +1,7 @@
+/* Coded with <3 Razuvitto
+location : src/CharInfo.jsx
+July 2019 */
+
 import React, { Component } from 'react';
 
 class CharInfo extends Component {
@@ -78,3 +82,5 @@ class CharInfo extends Component {
 }
 
 export default CharInfo;
+
+// end of file

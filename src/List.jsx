@@ -1,3 +1,7 @@
+/* Coded with <3 Razuvitto
+location : src/List.jsx
+July 2019 */
+
 import React, { Component } from 'react';
 import CharInfo from "./CharInfo";
 
@@ -24,3 +28,5 @@ class List extends Component {
 }
 
 export default List;
+
+// end of file
