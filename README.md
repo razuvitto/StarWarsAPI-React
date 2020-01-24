@@ -1,7 +1,7 @@
 <p align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPX07hBh0wkaulY-SvHMDtNN_wcbsDwM8-sIs305Pkq2r2Q1Z9gA&s"></p>
 
 <p align="center">
-Coded with <3 by <a href="mailto:Rajuolivitto@gmail.com?Subject=Hello%20Raju" target="_top">Razuvitto</a>
+Coded with <small>❤️</small> by <a href="mailto:Rajuolivitto@gmail.com?Subject=Hello%20Raju" target="_top">Razuvitto</a>
 </p>
 
 # Starwars Website using React
